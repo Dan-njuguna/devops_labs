@@ -27,3 +27,5 @@ Total Memory: 11.00GiB
 
 So far, I have covered; CPU Usage and Memory Usage only.
 
+
+**NOTE:** All props to `roadmap.sh` for providing this wonderful roadmap and [learning labs](https://roadmap.sh/projects/server-stats) for DevOps.
