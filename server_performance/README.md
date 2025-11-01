@@ -31,7 +31,7 @@ chmod u+x server_stats.sh
 4. (Optional) Add the script to local commands path"
 
 ```bash
-sudo ln -s server_stats.sh /usr/local/bin/server_stats
+sudo ln -s "$PWD/server_stats.sh" /usr/local/bin/server_stats
 ```
 
 **NOTE** The above allows you to access the command to get your server stats from anywhere in your linux machine or on your server.
