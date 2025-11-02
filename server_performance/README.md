@@ -8,8 +8,6 @@
   - Top 5 processes by CPU usage
   - Top 5 processes by memory usage
 
-[Project URL: https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
-
 ### Getting started
 
 1. Clone the repository and move to the server performance directory:
@@ -81,3 +79,5 @@ Free disk space percentage: 15.5%
 ```
 
 **NOTE:** All props to `roadmap.sh` for providing this wonderful roadmap and [learning labs](https://roadmap.sh/projects/server-stats) for DevOps.
+
+https://roadmap.sh/projects/server-stats
