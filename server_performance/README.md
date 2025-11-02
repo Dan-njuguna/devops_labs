@@ -8,6 +8,8 @@
   - Top 5 processes by CPU usage
   - Top 5 processes by memory usage
 
+Project URL: https://roadmap.sh/projects/server-stats
+
 ### Getting started
 
 1. Clone the repository and move to the server performance directory:
